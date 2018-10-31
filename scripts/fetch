@@ -6,9 +6,12 @@ mkdir -p _input
 cd _input
 
 FILES=(
-  "_assets/default.js"
+  "_assets/api.js"
   "_assets/common.js"
+  "_assets/default.js"
+  "_assets/api.css"
   "_assets/common.css"
+  "_assets/default.css"
   "_assets/styles.css"
 )
 
