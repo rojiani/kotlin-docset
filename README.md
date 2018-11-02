@@ -1,5 +1,9 @@
 # kotlin-docset
 
+Downloadable docsets for Kotlin 1.2, 1.3, etc. can be found in [Releases](https://github.com/rojiani/kotlin-docset/releases).
+
+---
+
 *kotlin-docset* is a docset for [Dash.app](http://kapeli.com/dash)
 containing the documentation for [Kotlin](http://kotlinlang.org).
 
