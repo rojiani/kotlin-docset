@@ -8,10 +8,8 @@ cd _input
 FILES=(
   "_assets/api.js"
   "_assets/common.js"
-  "_assets/default.js"
   "_assets/api.css"
   "_assets/common.css"
-  "_assets/default.css"
   "_assets/styles.css"
 )
 
@@ -23,7 +21,7 @@ do
 done
 
 set +e
-wget --mirror -k -nH http://kotlinlang.org/docs/reference/
+wget --mirror -k -nH https://kotlinlang.org/api/latest/jvm/stdlib/
 wget_status=$?
 set -e
 
