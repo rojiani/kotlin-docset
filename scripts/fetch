@@ -37,3 +37,13 @@ if [ ! -d _javadoc ]; then
   wget -O - https://github.com/JetBrains/kotlin/archive/gh-pages.zip | bsdtar -xvf-
   mv kotlin-gh-pages _javadoc
 fi
+
+# Remove non-API pages
+rm -rf ./community
+rm -rf ./eap
+rm -rf ./education
+rm -rf ./foundation
+rm -rf ./lp
+rm ./security.html
+rm ./robots.txt
+
