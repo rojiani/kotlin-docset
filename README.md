@@ -1,7 +1,7 @@
 # kotlin-docset
 
 **NOTE**: I made these docsets because at the time, the only Kotlin docset available in Dash was outdated (Kotlin 1.1). 
-An updated Kotlin docset is now available in the Dash app (in the *User Contributed* section), so I recommend using it.
+An updated Kotlin docset is now available in the Dash app (in the *User Contributed* section), so I recommend using it unless it doesn't have the latest version.
 Here's the GitHub repo: [Kotlin Dash docset](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/Kotlin).
 
 ---
