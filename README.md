@@ -6,7 +6,7 @@ Here's the GitHub repo: [Kotlin Dash docset](https://github.com/Kapeli/Dash-User
 
 ---
 
-Downloadable docsets for Kotlin 1.2, 1.3, etc. can be found in [Releases](https://github.com/rojiani/kotlin-docset/releases).
+Downloadable docsets for Kotlin 1.2-1.4 can be found in [Releases](https://github.com/rojiani/kotlin-docset/releases).
 
 ---
 
